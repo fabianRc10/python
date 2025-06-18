@@ -1,0 +1,4 @@
+-dinamico: el tipo de dato no depende de la variable, python lo entiende al pasarle el dato
+-estatico: el tipo de dato se define antes de la variable
+-python es de tipo dinámico, y lenguaje de programacion orientada objetos(POO), y es una lenguaje
+interprete
